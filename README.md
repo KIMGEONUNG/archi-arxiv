@@ -49,6 +49,8 @@
 [[paper](https://arxiv.org/pdf/1910.02055.pdf)]
 [[supp](https://nv-tlabs.github.io/NTG/resources/supp.pdf)]
 [[page](https://nv-tlabs.github.io/NTG/)]
+- Data-driven interior plan generation for residential buildings (SIGGRAPH AISA 2019)
+[[page](http://staff.ustc.edu.cn/~fuxm/projects/DeepLayout/index.html)]
 - Computing layouts with deformable templates (TOG 2014)
 [[paper](http://peterwonka.net/Publications/pdfs/2014.SG.Peng.Computing_Layouts_with_Deformable_Templates.pdf)]
 - Generating and exploring good building layouts (TOG 2013)
