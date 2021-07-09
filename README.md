@@ -1,7 +1,6 @@
 ## Overview 
 
 - Papers, codes and github references related to design, city or architecture(not computer architecture)
-- Priority will be given to research in which the code has been published. 
 
 ## Papers (code available)
 
