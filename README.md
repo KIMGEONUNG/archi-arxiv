@@ -56,7 +56,7 @@
 - Computer generated residential building layouts (TOG 2010)
 [[paper](https://dl.acm.org/doi/pdf/10.1145/1882261.1866203)]
 - Procedural modeling of buildings (SIGGRAPH 2006)
-[[paper](https://www.researchgate.net/publication/220183823_Procedural_Modeling_of_Buildings)
+[[paper](https://www.researchgate.net/publication/220183823_Procedural_Modeling_of_Buildings)]
 
 
 ## Datasets
