@@ -86,4 +86,4 @@
 ## Related Researcher
 
 - Yasutaka Furukawa
-[Google Scholar](https://scholar.google.com/citations?user=wCxzFrMAAAAJ&hl=en)
+[[Google Scholar](https://scholar.google.com/citations?user=wCxzFrMAAAAJ&hl=en)]
