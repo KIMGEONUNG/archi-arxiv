@@ -4,6 +4,15 @@
 
 ## Papers (code available)
 
+- Roof-GAN (CVPR 2021)
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Qian_Roof-GAN_Learning_To_Generate_Roof_Geometry_and_Relations_for_Residential_CVPR_2021_paper.pdf)]
+[[supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Qian_Roof-GAN_Learning_To_CVPR_2021_supplemental.pdf)]
+[[code](https://github.com/yi-ming-qian/roofgan)]
+- Plan2Scene (CVPR 2021)
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Vidanapathirana_Plan2Scene_Converting_Floorplans_to_3D_Scenes_CVPR_2021_paper.pdf)]
+[[supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Vidanapathirana_Plan2Scene_Converting_Floorplans_CVPR_2021_supplemental.pdf)]
+[[code](https://github.com/3dlg-hcvc/plan2scene)]
+[[page](https://3dlg-hcvc.github.io/plan2scene)]
 - HouseGAN++ (CVPR 2021)
 [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Nauata_House-GAN_Generative_Adversarial_Layout_Refinement_Network_towards_Intelligent_Computational_Agent_CVPR_2021_paper.pdf)]
 [[supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Nauata_House-GAN_Generative_Adversarial_CVPR_2021_supplemental.pdf)]
@@ -72,3 +81,9 @@
 ## Workshops
 
 - [Learning 3D Generative Models CVPR 2020 Workshop, Seattle, WA 14th of June 2020](https://learn3dgen.github.io/)
+
+
+## Related Researcher
+
+- Yasutaka Furukawa
+[Google Scholar](https://scholar.google.com/citations?user=wCxzFrMAAAAJ&hl=en)
