@@ -22,6 +22,9 @@
 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Intelligent_Home_3D_Automatic_3D-House_Design_From_Linguistic_Descriptions_Only_CVPR_2020_paper.pdf)]
 [[supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Chen_Intelligent_Home_3D_CVPR_2020_supplemental.pdf)]
 [[code](https://github.com/chenqi008/HPGM)]
+- End-to-end Generative Floor-plan and Layout with Attributes and Relation Graph (Arxiv 2020)
+[[paper](https://arxiv.org/pdf/2012.08514.pdf)]
+[[code](https://github.com/CODE-SUBMIT/dataset3)]
 - Fast and flexible indoor scene synthesis via deep convolutional generative models (CVPR 2019)
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ritchie_Fast_and_Flexible_Indoor_Scene_Synthesis_via_Deep_Convolutional_Generative_CVPR_2019_paper.pdf)]
 [[supp](https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Ritchie_Fast_and_Flexible_CVPR_2019_supplemental.zip)]
@@ -38,7 +41,10 @@
 [[code](https://github.com/mitroadmaps/roadtracer/)]
 
 ## Papers (code unavailable)
-
+- Building-GAN: Graph-Conditioned Architectural Volumetric Design Generation (Arxiv 2021)
+[[paper](https://arxiv.org/pdf/2104.13316.pdf)]
+- LayoutGMN: Neural Graph Matching for Structural Layout Similarity (CVPR 2021)
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Patil_LayoutGMN_Neural_Graph_Matching_for_Structural_Layout_Similarity_CVPR_2021_paper.pdf)]
 - ShapeMOD: Macro Operation Discovery for 3D Shape Programs (SIGGRAPH 2021)
 [[paper](https://rkjones4.github.io/pdf/shapeMOD.pdf)]
 [[page](https://rkjones4.github.io/shapeMOD.html)]
