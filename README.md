@@ -58,6 +58,8 @@
 - ShapeMOD: Macro Operation Discovery for 3D Shape Programs (SIGGRAPH 2021)
 [[paper](https://rkjones4.github.io/pdf/shapeMOD.pdf)]
 [[page](https://rkjones4.github.io/shapeMOD.html)]
+- Graph2Plan: Learning Floorplan Generation from Layout Graphs (Arxiv 2020)
+[[paper](https://arxiv.org/pdf/2004.13204.pdf)]
 - Floor-sp: Inverse cad for floorplans by sequential room-wise shortest path (ICCV 2019)
 [[paper](https://arxiv.org/abs/1908.06702)]
 - Neural turtle graphics for modeling city road layouts (ICCV 2019)
