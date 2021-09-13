@@ -4,6 +4,11 @@
 
 ## Papers (code available)
 
+- Structured Outdoor Architecture Reconstruction by Exploration and Classification (Arxiv 2021)
+[[paper](https://arxiv.org/pdf/2108.07990.pdf)]
+[[supp](https://zhangfuyang.github.io/search-classify/supp.pdf)]
+[[code](https://github.com/zhangfuyang/search_evaluate)]
+[[page](https://zhangfuyang.github.io/search-classify/page.html)]
 - Roof-GAN (CVPR 2021)
 [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Qian_Roof-GAN_Learning_To_Generate_Roof_Geometry_and_Relations_for_Residential_CVPR_2021_paper.pdf)]
 [[supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Qian_Roof-GAN_Learning_To_CVPR_2021_supplemental.pdf)]
