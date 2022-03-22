@@ -4,9 +4,6 @@
 
 ## Papers (code available)
 
-- HEAT: Holistic Edge Attention Transformer for Structured Reconstruction (Arxiv 2022)
-[[paper](https://arxiv.org/abs/2111.15143)]
-
 - Structured Outdoor Architecture Reconstruction by Exploration and Classification (ICCV 2021)
 [[paper](https://arxiv.org/pdf/2108.07990.pdf)]
 [[supp](https://zhangfuyang.github.io/search-classify/supp.pdf)]
@@ -59,6 +56,8 @@
 
 ## Papers (code unavailable)
 
+- HEAT: Holistic Edge Attention Transformer for Structured Reconstruction (Arxiv 2022)
+[[paper](https://arxiv.org/abs/2111.15143)]
 - Building-GAN: Graph-Conditioned Architectural Volumetric Design Generation (Arxiv 2021)
 [[paper](https://arxiv.org/pdf/2104.13316.pdf)]
 - LayoutGMN: Neural Graph Matching for Structural Layout Similarity (CVPR 2021)
